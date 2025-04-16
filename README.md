@@ -1,2 +1,2 @@
-# tymery.github.io
+# tymery
 Messenger
